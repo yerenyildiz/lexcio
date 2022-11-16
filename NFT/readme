@@ -1,0 +1,2 @@
+Lexcio NFT sunumunda kullanılan basit NFT kontratı. 
+UDF formatında yazılmış elektronik imzalı ile ve URI ile hukuki hakların devri amaçlanmıştır. Sunum kolaylığı nedeni ile IPFS yerine HTTPS üzerinde metadata'nın depolanması tercih edildi.
